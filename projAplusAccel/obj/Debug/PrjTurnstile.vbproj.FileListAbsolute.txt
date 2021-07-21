@@ -1,0 +1,6 @@
+D:\PROGRAMS\ProjectF\VB\VS2013\Turnstile Access Control System\AplusAccel\projAplusAccel\bin\Debug\Access Control System.exe.config
+D:\PROGRAMS\ProjectF\VB\VS2013\Turnstile Access Control System\AplusAccel\projAplusAccel\obj\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\ProjectF\VB\VS2013\Turnstile Access Control System\AplusAccel\projAplusAccel\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\ProjectF\VB\VS2013\Turnstile Access Control System\AplusAccel\projAplusAccel\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\ProjectF\VB\VS2013\Turnstile Access Control System\AplusAccel\projAplusAccel\obj\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\ProjectF\VB\VS2013\Turnstile Access Control System\AplusAccel\projAplusAccel\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
