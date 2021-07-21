@@ -1123,3 +1123,12 @@ D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\Schools\StAndrew
 D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\Schools\StAndrew\obj\Debug\St. Andrews ID System.exe
 D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\Schools\StAndrew\obj\Debug\St. Andrews ID System.xml
 D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\Schools\StAndrew\obj\Debug\St. Andrews ID System.pdb
+D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\StAndrew\bin\Debug\St. Andrews ID System.exe.config
+D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\StAndrew\obj\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\StAndrew\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\StAndrew\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\StAndrew\obj\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\StAndrew\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\StAndrew\obj\Debug\St. Andrews ID System.exe
+D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\StAndrew\obj\Debug\St. Andrews ID System.xml
+D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\StAndrew\obj\Debug\St. Andrews ID System.pdb
