@@ -1,0 +1,1125 @@
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\PrjTurnstile.exe.config
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\PrjTurnstile.exe
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\PrjTurnstile.pdb
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\PrjTurnstile.xml
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmEmployee.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewEmployee.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.exe
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.xml
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.pdb
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\att link testing\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmEmployee.resources
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewEmployee.resources
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.6.tlog
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.exe.config
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.exe
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.pdb
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.xml
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.exe
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.xml
+D:\PROGRAMS\FERNAN\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.pdb
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.exe.config
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.exe
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.xml
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.pdb
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.exe
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.pdb
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.xml
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmEmployee.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewEmployee.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\test\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.exe.config
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.exe
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.xml
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.pdb
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.exe
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.pdb
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.xml
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmEmployee.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewEmployee.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\att link Final\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.exe.config
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.exe
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.xml
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.pdb
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.exe
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.pdb
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.xml
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmEmployee.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewEmployee.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.exe.config
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.exe
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.xml
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.pdb
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.exe
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.pdb
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.xml
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmEmployee.resources
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewEmployee.resources
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.6.tlog
+D:\PROGRAMS\FERNAN\Turnstyle System ACS\Print delay reso\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.exe.config
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.exe
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.xml
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.pdb
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmEmployee.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewEmployee.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.exe
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.pdb
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.xml
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\auto resize 2\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.exe.config
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.exe
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.xml
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.pdb
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.exe
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.pdb
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.xml
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmEmployee.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewEmployee.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.6.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\auto resize 1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.exe.config
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.exe
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.xml
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.pdb
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.exe
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.pdb
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.xml
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmEmployee.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewEmployee.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.6.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.exe.config
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.exe
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.xml
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.pdb
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.exe
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.pdb
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.xml
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmEmployee.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewEmployee.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.6.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.exe.config
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.exe
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.xml
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.pdb
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.exe
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.pdb
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.xml
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmEmployee.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewEmployee.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.6.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\Isa Demo Turnstyle Update\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.exe.config
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.exe
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.xml
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Access Control System.pdb
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.exe
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.pdb
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Access Control System.xml
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmEmployee.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewEmployee.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.6.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\loop conn dev\autoping\isa anti pass back\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogsHistory.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogsHistory.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmmsgIn.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsgOut.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmStudent.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewStud.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPicPath.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsg.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe.config
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.pdb
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.xml
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.exe
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.xml
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.pdb
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe.config
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.exe
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.xml
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.pdb
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.pdb
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.xml
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmImport.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogsHistory.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsg.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmmsgIn.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsgOut.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPicPath.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmStudent.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewStud.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe.config
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.exe
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.xml
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.pdb
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmImport.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogsHistory.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsg.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmmsgIn.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsgOut.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPicPath.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmStudent.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewStud.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.pdb
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.xml
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\ACS update 05-12-12\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe.config
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.exe
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.xml
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.pdb
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.pdb
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.xml
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmImport.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogsHistory.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsg.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmmsgIn.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsgOut.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPicPath.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmStudent.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewStud.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPassBack.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe.config
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.exe
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.xml
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.pdb
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe.config
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.exe
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.xml
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.pdb
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmImport.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogsHistory.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsg.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmmsgIn.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsgOut.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPassBack.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPicPath.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmStudent.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewStud.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.pdb
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.xml
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\st andrew\With Import daw\Updated Main FORm1\Updated Timer\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe.config
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.exe
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.xml
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.pdb
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.pdb
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.xml
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmImport.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogsHistory.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsg.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmmsgIn.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsgOut.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPassBack.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPicPath.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmStudent.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewStud.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe.config
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.exe
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.xml
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.pdb
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.pdb
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.xml
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAutoCon.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmImport.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogsHistory.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsg.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmmsgIn.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsgOut.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPassBack.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPicPath.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmStudent.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewStud.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\St Andrew ID System Proj\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe.config
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.exe
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.xml
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.pdb
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.pdb
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.xml
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAutoCon.resources
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmImport.resources
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogsHistory.resources
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsg.resources
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmmsgIn.resources
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsgOut.resources
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPassBack.resources
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPicPath.resources
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmStudent.resources
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewStud.resources
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+H:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe.config
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.exe
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.xml
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.pdb
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.pdb
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.xml
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\log4net.dll
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAutoCon.resources
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmImport.resources
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogsHistory.resources
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsg.resources
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmmsgIn.resources
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsgOut.resources
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPassBack.resources
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPicPath.resources
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmStudent.resources
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewStud.resources
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+F:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe.config
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.exe
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.xml
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.pdb
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.pdb
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.xml
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\log4net.dll
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAutoCon.resources
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmImport.resources
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogsHistory.resources
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsg.resources
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmmsgIn.resources
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsgOut.resources
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPassBack.resources
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPicPath.resources
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmStudent.resources
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewStud.resources
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\St. Andrew Proj\AutoConn\TurnsTile System\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe.config
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.exe
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.xml
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.pdb
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.pdb
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.xml
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAutoCon.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmImport.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogsHistory.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsg.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmmsgIn.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsgOut.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPassBack.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPicPath.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmStudent.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewStud.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe.config
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.exe
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.xml
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.pdb
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.pdb
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.xml
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAutoCon.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmImport.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogsHistory.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsg.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmmsgIn.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsgOut.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPassBack.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPicPath.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmStudent.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewStud.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\andrew test\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe.config
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.exe
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.xml
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.pdb
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.pdb
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.xml
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\log4net.dll
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAutoCon.resources
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmImport.resources
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogsHistory.resources
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsg.resources
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmmsgIn.resources
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsgOut.resources
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPassBack.resources
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPicPath.resources
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmStudent.resources
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewStud.resources
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+F:\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe.config
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.exe
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.xml
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.pdb
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.pdb
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.xml
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAutoCon.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmImport.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogsHistory.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsg.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmmsgIn.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsgOut.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPassBack.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPicPath.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmStudent.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewStud.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\1SA.Fernan\Desktop\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe.config
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.exe
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.xml
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.pdb
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.pdb
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.xml
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAutoCon.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmImport.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogsHistory.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsg.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmmsgIn.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsgOut.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPassBack.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPicPath.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmStudent.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewStud.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmEmp.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAddEmp.resources
+D:\PROGRAMS\FERNAN\PROJECTS\St andrew\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmEmpLogs.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe.config
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.exe
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.xml
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.pdb
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.pdb
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.xml
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\log4net.dll
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.zkemkeeper.dll
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\Interop.NETVIDEOACTIVEXLib.dll
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\AxInterop.zkemkeeper.dll
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\ResolveAssemblyReference.cache
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAddEmp.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAutoCon.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmEmp.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmEmpLogs.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmImport.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogsHistory.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsg.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmmsgIn.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMsgOut.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPassBack.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmPicPath.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmReportLogs.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAttRule.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmCamSettings.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDev.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmConDB.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDBPathCon.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmDept.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmAdminAcc.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmStudent.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogin.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmLogs.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmNewStud.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.frmMain.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.Resources.resources
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.read.4.tlog
+F:\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROGRAMS\VB\VB 10\St Andrew Turntile\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe.config
+D:\PROGRAMS\VB\VB 10\St Andrew Turntile\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\VB\VB 10\St Andrew Turntile\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 10\St Andrew Turntile\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\VB\VB 10\St Andrew Turntile\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\VB\VB 10\St Andrew Turntile\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+D:\PROGRAMS\VB\VB 10\St Andrew Turntile\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.exe
+D:\PROGRAMS\VB\VB 10\St Andrew Turntile\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.xml
+D:\PROGRAMS\VB\VB 10\St Andrew Turntile\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.pdb
+D:\PROGRAMS\1SA\St Andrew Turntile\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\bin\Debug\St. Andrews ID System.exe.config
+D:\PROGRAMS\1SA\St Andrew Turntile\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\1SA\St Andrew Turntile\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\1SA\St Andrew Turntile\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\1SA\St Andrew Turntile\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\1SA\St Andrew Turntile\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+D:\PROGRAMS\1SA\St Andrew Turntile\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.exe
+D:\PROGRAMS\1SA\St Andrew Turntile\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.xml
+D:\PROGRAMS\1SA\St Andrew Turntile\Student with Employee\st. andrew proj\PrjTurnstile\PrjTurnstile\obj\Debug\St. Andrews ID System.pdb
+D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\Schools\StAndrew\bin\Debug\St. Andrews ID System.exe.config
+D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\Schools\StAndrew\obj\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\Schools\StAndrew\obj\Debug\Interop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\Schools\StAndrew\obj\Debug\AxInterop.NETVIDEOACTIVEXLib.dll
+D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\Schools\StAndrew\obj\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\Schools\StAndrew\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\Schools\StAndrew\obj\Debug\St. Andrews ID System.exe
+D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\Schools\StAndrew\obj\Debug\St. Andrews ID System.xml
+D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\Schools\StAndrew\obj\Debug\St. Andrews ID System.pdb
