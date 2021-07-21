@@ -1,0 +1,8 @@
+D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\DLSU-Dasma\bin\Debug\Access Control System.exe.config
+D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\DLSU-Dasma\obj\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\DLSU-Dasma\obj\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\ProjectF\VB\VS 2013\Turnstile Access Control System\DLSU-Dasma\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
+D:\PROGRAMS\ProjectF\VB\VS2013\Turnstile Access Control System\DLSU-Dasma\projDSLUD\bin\Debug\Access Control System.exe.config
+D:\PROGRAMS\ProjectF\VB\VS2013\Turnstile Access Control System\DLSU-Dasma\projDSLUD\obj\Debug\Interop.zkemkeeper.dll
+D:\PROGRAMS\ProjectF\VB\VS2013\Turnstile Access Control System\DLSU-Dasma\projDSLUD\obj\Debug\AxInterop.zkemkeeper.dll
+D:\PROGRAMS\ProjectF\VB\VS2013\Turnstile Access Control System\DLSU-Dasma\projDSLUD\obj\Debug\PrjTurnstile.vbproj.ResolveComReference.cache
