@@ -1,0 +1,704 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F849367D-8806-4228-BB27-A62DC5A680ED}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>PrjTurnstile.My.MyApplication</StartupObject>
+    <RootNamespace>PrjTurnstile</RootNamespace>
+    <AssemblyName>Access Control System</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Access Control System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Access Control System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>20120417110809205_easyicon_cn_48.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Access Control System.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\PrjTurnstile.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <DefineDebug>false</DefineDebug>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Access Control System.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\PrjTurnstile.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="adodb, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\adodb.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="n3kAdrtB, Version=5.7.23004.20518, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\n3kAdrtB.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="ADODB" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Configuration.Assemblies" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controls\controlDev.designer.vb">
+      <DependentUpon>controlDev.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\controlDev.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\atcMain.Designer.vb">
+      <DependentUpon>atcMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\atcMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAbout.Designer.vb">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAddCard.Designer.vb">
+      <DependentUpon>frmAddCard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAddCard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAddController.designer.vb">
+      <DependentUpon>frmAddController.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAddController.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAddDev.Designer.vb">
+      <DependentUpon>frmAddDev.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAddDev.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAddList.Designer.vb">
+      <DependentUpon>frmAddList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAddList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAutoRestart.Designer.vb">
+      <DependentUpon>frmAutoRestart.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAutoRestart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmBarrier.Designer.vb">
+      <DependentUpon>frmBarrier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmBarrier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmController.Designer.vb">
+      <DependentUpon>frmController.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmController.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmControlPanel.Designer.vb">
+      <DependentUpon>frmControlPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmControlPanel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDevrec.Designer.vb">
+      <DependentUpon>frmDevrec.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDevrec.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDowloadLogs.Designer.vb">
+      <DependentUpon>frmDowloadLogs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDowloadLogs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmEmpImgPath.Designer.vb">
+      <DependentUpon>frmEmpImgPath.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmEmpImgPath.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmFindControler.designer.vb">
+      <DependentUpon>frmFindControler.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmFindControler.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmHextoDec.Designer.vb">
+      <DependentUpon>frmHextoDec.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmHextoDec.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmImgDesig.Designer.vb">
+      <DependentUpon>frmImgDesig.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmImgDesig.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLogo.Designer.vb">
+      <DependentUpon>frmLogo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLogo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLogsHistory.Designer.vb">
+      <DependentUpon>frmLogsHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLogsHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMsgExpired.Designer.vb">
+      <DependentUpon>frmMsgExpired.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMsgExpired.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMsgIn.Designer.vb">
+      <DependentUpon>frmMsgIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMsgIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMsgOut.Designer.vb">
+      <DependentUpon>frmMsgOut.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMsgOut.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmReportLogs.Designer.vb">
+      <DependentUpon>frmReportLogs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmReportLogs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPsb.Designer.vb">
+      <DependentUpon>frmPsb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPsb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSettings.Designer.vb">
+      <DependentUpon>frmSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmShift.Designer.vb">
+      <DependentUpon>frmShift.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmShift.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmStatus.Designer.vb">
+      <DependentUpon>frmStatus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmStatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmUpdateExp.Designer.vb">
+      <DependentUpon>frmUpdateExp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmUpdateExp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmUpload.designer.vb">
+      <DependentUpon>frmUpload.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmUpload.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmVehicle.Designer.vb">
+      <DependentUpon>frmVehicle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmVehicle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainSystem.Designer.vb">
+      <DependentUpon>MainSystem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainSystem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\Blocked_Expired.vb" />
+    <Compile Include="Modules\Controller_Config.vb" />
+    <Compile Include="Modules\Controller_Function.vb" />
+    <Compile Include="Modules\D8U_FUNCTION.vb" />
+    <Compile Include="Modules\DevConfig.vb" />
+    <Compile Include="Modules\Emp_Info.vb" />
+    <Compile Include="Modules\Enty_Data_Enum.vb" />
+    <Compile Include="Modules\IO_Relay_Settings.vb" />
+    <Compile Include="Modules\Logo_Function.vb" />
+    <Compile Include="Report\crtAttReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crtAttReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\CrTimeOut.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrTimeOut.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\crtReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crtReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDBPathCon.Designer.vb">
+      <DependentUpon>frmDBPathCon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDBPathCon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmEmployee.Designer.vb">
+      <DependentUpon>frmEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLogs.Designer.vb">
+      <DependentUpon>frmLogs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLogs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\Controls.vb" />
+    <Compile Include="Modules\AddPic.vb" />
+    <Compile Include="Modules\Camera Function.vb" />
+    <Compile Include="Forms\frmCamSettings.Designer.vb">
+      <DependentUpon>frmCamSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCamSettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmConDev.Designer.vb">
+      <DependentUpon>frmConDev.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmConDev.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmConDB.Designer.vb">
+      <DependentUpon>frmConDB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmConDB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAdminAcc.Designer.vb">
+      <DependentUpon>frmAdminAcc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAdminAcc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\Conn.vb" />
+    <Compile Include="Modules\PingConfig.vb" />
+    <Compile Include="Modules\ReaderConn.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Modules\Settings.vb" />
+    <Compile Include="Report\CR_ListLogs.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CR_ListLogs.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\Cr_timeIn.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_timeIn.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\CR_TimeOut.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CR_TimeOut.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Dev1Control.Designer.vb">
+      <DependentUpon>Dev1Control.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Dev1Control.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controls\controlDev.resx">
+      <DependentUpon>controlDev.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\atcMain.resx">
+      <DependentUpon>atcMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAbout.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAddCard.resx">
+      <DependentUpon>frmAddCard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAddController.resx">
+      <DependentUpon>frmAddController.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAddDev.resx">
+      <DependentUpon>frmAddDev.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAddList.resx">
+      <DependentUpon>frmAddList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAutoRestart.resx">
+      <DependentUpon>frmAutoRestart.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmBarrier.resx">
+      <DependentUpon>frmBarrier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmController.resx">
+      <DependentUpon>frmController.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmControlPanel.resx">
+      <DependentUpon>frmControlPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDevrec.resx">
+      <DependentUpon>frmDevrec.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDowloadLogs.resx">
+      <DependentUpon>frmDowloadLogs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmEmpImgPath.resx">
+      <DependentUpon>frmEmpImgPath.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmFindControler.resx">
+      <DependentUpon>frmFindControler.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmHextoDec.resx">
+      <DependentUpon>frmHextoDec.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmImgDesig.resx">
+      <DependentUpon>frmImgDesig.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLogo.resx">
+      <DependentUpon>frmLogo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLogsHistory.resx">
+      <DependentUpon>frmLogsHistory.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMsgExpired.resx">
+      <DependentUpon>frmMsgExpired.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMsgIn.resx">
+      <DependentUpon>frmMsgIn.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMsgOut.resx">
+      <DependentUpon>frmMsgOut.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmReportLogs.resx">
+      <DependentUpon>frmReportLogs.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPsb.resx">
+      <DependentUpon>frmPsb.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSettings.resx">
+      <DependentUpon>frmSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmShift.resx">
+      <DependentUpon>frmShift.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmStatus.resx">
+      <DependentUpon>frmStatus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmUpdateExp.resx">
+      <DependentUpon>frmUpdateExp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmUpload.resx">
+      <DependentUpon>frmUpload.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmVehicle.resx">
+      <DependentUpon>frmVehicle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainSystem.resx">
+      <DependentUpon>MainSystem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crtAttReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crtAttReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\CrTimeOut.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrTimeOut.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\crtReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crtReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCamSettings.resx">
+      <DependentUpon>frmCamSettings.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmConDev.resx">
+      <DependentUpon>frmConDev.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmConDB.resx">
+      <DependentUpon>frmConDB.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDBPathCon.resx">
+      <DependentUpon>frmDBPathCon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAdminAcc.resx">
+      <DependentUpon>frmAdminAcc.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmEmployee.resx">
+      <DependentUpon>frmEmployee.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLogs.resx">
+      <DependentUpon>frmLogs.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\CR_ListLogs.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CR_ListLogs.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Cr_timeIn.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_timeIn.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\CR_TimeOut.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CR_TimeOut.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Dev1Control.resx">
+      <DependentUpon>Dev1Control.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxNETVIDEOACTIVEXLib">
+      <Guid>{36EB3364-7668-47E2-9577-8740D9784062}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Axzkemkeeper">
+      <Guid>{FE9DED34-E159-408E-8490-B720A5E632C7}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="COMRD800Lib">
+      <Guid>{50DEC628-228A-4AB7-A057-1247676BCA10}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="zkemkeeper">
+      <Guid>{FE9DED34-E159-408E-8490-B720A5E632C7}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="20120417110809205_easyicon_cn_48.ico" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
